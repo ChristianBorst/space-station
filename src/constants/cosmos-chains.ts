@@ -119,7 +119,7 @@ const secret: CosmosChainInfo = {
   chainId: 'secret-4',
   lcd: 'https://api.scrt.network',
   bech32Prefix: 'secret',
-  path: [44, 520, 0, 0, 0],
+  path: [44, 529, 0, 0, 0],
   denom: 'uscrt',
   ibcChannels: {
     [SupportedCosmosChain.GravityBridge]: 'channel-79'

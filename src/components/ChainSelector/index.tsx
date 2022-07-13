@@ -77,7 +77,8 @@ const SUPPORTED_CHAIN_MAP: Record<SupportedChain, ChainViewInfo> = {
       SupportedChain.Iris,
       SupportedChain.Chihuahua,
       SupportedChain.Nyx,
-      SupportedChain.Crescent
+      SupportedChain.Crescent,
+      SupportedChain.Secret
     ],
     head: 8,
     tail: 8

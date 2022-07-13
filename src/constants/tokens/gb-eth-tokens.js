@@ -32,15 +32,15 @@ export default {
     denom: 'gravity0xdAC17F958D2ee523a2206206994597C13D831ec7',
     symbol: 'USDT',
     decimals: 6,
-    logoURI: 'https://assets.coingecko.com/coins/images/325/Tether-logo.png?1598003707',
+    logoURI: 'https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707',
     priceDenom: 'tether'
   },
   gravity0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599: {
     name: 'Wrapped Bitcoin',
-    denom: 'gravity0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599',
+    denom: 'gravity0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599',
     symbol: 'WBTC',
     decimals: 8,
-    logoURI: 'https://assets.coingecko.com/coins/images/325/Tether-logo.png?1598003707',
+    logoURI: 'https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744',
     priceDenom: 'wrapped-bitcoin'
   },
   'ibc/2E5D0AC026AC1AFA65A23023BA4F24BB8DDF94F118EDC0BAD6F625BFC557CDED': {
